@@ -1,0 +1,18 @@
+﻿Study Static Analysis:1 started: 06-01-2021, 04:07:34 PM
+Number of configurations: 1
+Default mesh: 111562 elements, 180221 nodes
+Solution time 11.5s
+Convergence rate: 17.9%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 06-01-2021, 04:07:47 PM
+Total time 0:00:13
+
+Study Static Analysis:1 started: 06-01-2021, 04:14:46 PM
+Number of configurations: 1
+Default mesh: 111562 elements, 180221 nodes
+Solution time 7.7s
+Convergence rate: 14.9%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 06-01-2021, 04:14:55 PM
+Total time 0:00:09
+

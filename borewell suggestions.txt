@@ -1,0 +1,16 @@
+16/7/20
+rescue plan change
+-> bore well holding, no rescue
+
+
+End effector actuation
+-> parallel manipulator
+-> gimbel
+
+End effector
+ -> vaccum cup
+
+Cage Structure
+-> Balloon with airbag material
+
+  
